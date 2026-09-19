@@ -1,3 +1,7 @@
+---
+title: "03 — Negocio: medicina estética / antiaging en Mallorca"
+---
+
 # 03 — Negocio: medicina estética / antiaging en Mallorca
 
 Plan de empresa para montar una clínica con tu hermana en 3-5 años.

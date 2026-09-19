@@ -1,3 +1,7 @@
+---
+title: "01 — Fundamentos de economía"
+---
+
 # 01 — Fundamentos de economía
 
 Conceptos básicos, organizados para poder repasar y ampliar con el tiempo.

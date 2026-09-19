@@ -1,3 +1,7 @@
+---
+title: "Marco legal y sanitario en España"
+---
+
 # Marco legal y sanitario en España
 
 **Aviso: la normativa sanitaria varía por comunidad autónoma y cambia

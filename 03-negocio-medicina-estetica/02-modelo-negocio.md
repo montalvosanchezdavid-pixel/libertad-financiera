@@ -1,3 +1,7 @@
+---
+title: "Modelo de negocio"
+---
+
 # Modelo de negocio
 
 Estructura tipo Business Model Canvas, adaptada. Rellenar cada bloque a

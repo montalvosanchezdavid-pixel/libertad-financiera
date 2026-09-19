@@ -1,3 +1,7 @@
+---
+title: "Análisis de mercado en Mallorca"
+---
+
 # Análisis de mercado en Mallorca
 
 ## Por qué Mallorca es un mercado particular para esto

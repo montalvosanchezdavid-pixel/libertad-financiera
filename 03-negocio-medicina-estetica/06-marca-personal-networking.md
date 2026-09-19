@@ -1,3 +1,7 @@
+---
+title: "Marca personal y red de contactos"
+---
+
 # Marca personal y red de contactos
 
 En un mercado pequeño y de relaciones como el de Mallorca de alto poder

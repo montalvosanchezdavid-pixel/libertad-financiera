@@ -1,3 +1,7 @@
+---
+title: "Proyección financiera"
+---
+
 # Proyección financiera
 
 Plantilla para rellenar con cifras reales según avances en cotizaciones

@@ -1,3 +1,7 @@
+---
+title: "02 — Portfolio y plan de inversión"
+---
+
 # 02 — Portfolio y plan de inversión
 
 Plan de inversión para el ahorro mensual (~2.500€/mes) durante los

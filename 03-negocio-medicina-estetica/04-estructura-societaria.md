@@ -1,3 +1,7 @@
+---
+title: "Estructura societaria con tu hermana"
+---
+
 # Estructura societaria con tu hermana
 
 Montar un negocio familiar tiene una ventaja (confianza, alineación de

@@ -1,0 +1,9 @@
+title: Libertad financiera
+description: Aprendizaje, plan de inversión y plan de negocio hacia la libertad financiera.
+theme: jekyll-theme-cayman
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false

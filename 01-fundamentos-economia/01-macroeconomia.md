@@ -1,3 +1,7 @@
+---
+title: "Macroeconomía básica"
+---
+
 # Macroeconomía básica
 
 ## PIB (Producto Interior Bruto)

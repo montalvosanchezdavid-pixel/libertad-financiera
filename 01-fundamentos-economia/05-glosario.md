@@ -1,3 +1,7 @@
+---
+title: "Glosario"
+---
+
 # Glosario
 
 - **PIB**: valor total de la producción de un país en un periodo.

@@ -1,3 +1,7 @@
+---
+title: "Política de inversión"
+---
+
 # Política de inversión
 
 **Horizonte:** 4 años de aportación (~2.500€/mes = ~30.000€/año, ~120.000€

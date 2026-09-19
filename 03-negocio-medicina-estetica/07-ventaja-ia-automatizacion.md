@@ -1,3 +1,7 @@
+---
+title: "Ventaja competitiva: IA y automatización"
+---
+
 # Ventaja competitiva: IA y automatización
 
 La mayoría de clínicas estéticas en Mallorca no están gestionadas por

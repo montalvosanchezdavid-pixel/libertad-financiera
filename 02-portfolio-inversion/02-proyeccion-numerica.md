@@ -1,3 +1,7 @@
+---
+title: "Proyección numérica"
+---
+
 # Proyección numérica
 
 **Esto es matemática de interés compuesto sobre supuestos, no una

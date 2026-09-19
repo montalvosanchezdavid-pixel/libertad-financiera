@@ -1,3 +1,7 @@
+---
+title: "Activos alternativos: arte y coleccionismo"
+---
+
 # Activos alternativos: arte y coleccionismo
 
 Ya practicas esto (la pieza de Dalí comprada en Catawiki), así que esto

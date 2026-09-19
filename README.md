@@ -1,3 +1,7 @@
+---
+title: "Libertad financiera"
+---
+
 # Libertad financiera
 
 Repositorio personal: aprendizaje, plan de inversión y plan de negocio hacia

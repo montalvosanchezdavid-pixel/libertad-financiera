@@ -1,3 +1,7 @@
+---
+title: "Fiscalidad de la inversión en España"
+---
+
 # Fiscalidad de la inversión en España
 
 **Aviso: los tipos y umbrales cambian con cada ley de presupuestos.
